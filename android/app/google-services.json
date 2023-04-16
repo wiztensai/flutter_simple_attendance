@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "325302199646",
+    "project_id": "absensi-nanang",
+    "storage_bucket": "absensi-nanang.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:325302199646:android:4138aa1d46bc8dbde41bcf",
+        "android_client_info": {
+          "package_name": "com.nanang_f.absensi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "325302199646-28alv3hsi1t3avh5uupk2gb5uqa60j1n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAc4c4ruX_aR38v2faa841FsRQJU8WfDoo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "325302199646-28alv3hsi1t3avh5uupk2gb5uqa60j1n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
